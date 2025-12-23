@@ -1,4 +1,4 @@
-# Pathfinding Visualizer
+# AlgoPath Visualizer
 I have always wished to recreate the Clement Mihailescu's Pathfinding Visualizer and finally got some good time to do the same. Visualizing algorithms like Breadth-First Search (BFS), Depth-First Search (DFS) and Dijkstra's Algorithm can be difficult and that's where this web-application helps.
 
 ## Here are a few snapshots
