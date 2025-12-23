@@ -28,7 +28,7 @@ I have always wished to recreate the Clement Mihailescu's Pathfinding Visualizer
 Pretty much the same as the standard react application, so all the usual react-scripts are available to your disposal. So, over here I restricted myself to the instructions to only the essentials.
 ## 1. Clone the repository or download the zip
 ```
-git clone https://github.com/karanarjunjr/pathfinding-visualizer.git
+git clone https://github.com/sachikaiitm/algopath-visualizer.git
 ```
 
 ## 2. Install the dependencies
